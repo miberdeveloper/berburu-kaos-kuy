@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Ini ditambahkan agus
 
 ditambah lagi
+=======
+Ini ditambahkan agus lhooo
+>>>>>>> 4d394c25d6a5729de0ba1205e08c53b9880de9c2

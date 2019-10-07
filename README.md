@@ -5,3 +5,11 @@
 <div style="text-align:center">
    <img src="mbah.png" width="100%">
 </div>
+
+## Nomer Absen
+
+1. Agus Prasetyo
+2. Agusta Dwi Mahardika
+3. Amadeus Gilang
+4. Dany Kurniawan Kusumah
+5. ...
