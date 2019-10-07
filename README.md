@@ -12,4 +12,5 @@
 2. Agusta Dwi Mahardika
 3. Amadeus Gilang
 4. Dany Kurniawan Kusumah
-5. ...
+5. Diah Kumalasari
+6. ...
