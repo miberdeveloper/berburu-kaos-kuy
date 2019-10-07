@@ -1,3 +1,6 @@
 # Berburu kaos hacktober fest
 
-<img src="mbah.png">
+## Mbah kung
+<div style="text-align:center">
+   <img src="mbah.png">
+</div>
