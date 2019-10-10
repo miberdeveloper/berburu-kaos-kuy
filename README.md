@@ -6,6 +6,19 @@
    <img src="mbah.png" width="100%">
 </div>
 
+<div style="text-align:center">
+   <img src="mbah.png" width="100%">
+</div>
+
+<div style="text-align:center">
+   <img src="mbah.png" width="100%">
+</div>
+
+<div style="text-align:center">
+   <img src="mbah.png" width="100%">
+</div>
+
+
 ## Nomer Absen
 
 1. Agus Prasetyo
