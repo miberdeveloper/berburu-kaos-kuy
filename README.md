@@ -26,6 +26,12 @@
 <div style="text-align:center">
    <img src="mbah.png" width="100%">
 </div
+   
+## Ini Anime
+<div style="text-align:center">
+   <img src="RGLQGJ66_400x400.jpg" width="100%">
+</div
+RGLQGJ66_400x400.jpg
 
 
 ## Nomer Absen
